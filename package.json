@@ -1,0 +1,26 @@
+{
+  "name": "todo-list-full-stack",
+  "version": "1.0.0",
+  "description": "Building a simple full stack app using MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toncas/todo-list-full-stack.git"
+  },
+  "author": "Antonio & Trung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toncas/todo-list-full-stack/issues"
+  },
+  "homepage": "https://github.com/toncas/todo-list-full-stack#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
